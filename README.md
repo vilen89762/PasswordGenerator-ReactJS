@@ -26,7 +26,7 @@ Sure! Here’s a detailed README for Password Generator project:
 
 - **React**: A JavaScript library for building user interfaces.
 - **JavaScript**: The programming language used for the logic.
-- **CSS**: For styling the components (you can use frameworks like Tailwind CSS or Bootstrap).
+- **CSS**: For styling the components (Tailwind CSS).
 
 ## Installation
 
