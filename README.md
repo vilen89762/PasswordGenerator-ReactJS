@@ -39,7 +39,7 @@ To run the Password Generator locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd PasswordGenerator-ReactJS
+   cd your-project-directory
    ```
 
 3. Install the dependencies:
