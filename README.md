@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # PasswordGenerator-ReactJS
-Sure! Here’s a detailed README for Password Generator project that you can use for GitHub repository:
+Sure! Here’s a detailed README for Password Generator project:
 
 ## Overview
 
